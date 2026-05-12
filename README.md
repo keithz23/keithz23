@@ -1,7 +1,9 @@
+🌱 I’m currently deep-diving into Distributed Systems, AWS Architecture (SAA), and High-load Backend design.
 
-<!-- Optional: Add a short intro here about yourself -->
-- 🌱 I’m currently learning **React, TypeScript, Next.js, NestJS, and AWS**  
-- 👯 I’m looking to collaborate on **projects involving scalable web applications and cloud solutions**  
-- 🤔 I’m looking for help with **optimizing application performance and leveraging AWS services effectively**  
-- 💬 Ask me about **web development, RESTful APIs, AWS, and TypeScript tips**  
-- 📫 How to reach me: **vuongtuankiet33@gmail.com**  
+👯 I’m looking to collaborate on Open Source microservices or scalable Full-stack projects.
+
+🤔 I’m looking for help with Performance tuning at scale and Advanced DevOps workflows.
+
+💬 Ask me about NestJS, Java Spring Boot, RESTful API design, and TypeScript.
+
+📫 How to reach me: vuongtuankiet33@gmail.com
